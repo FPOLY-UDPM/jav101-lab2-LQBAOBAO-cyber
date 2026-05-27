@@ -117,7 +117,7 @@
             <h1>WebNormal</h1>
 
             <a href="login.jsp" class="cta-button">Đăng nhập ngay</a>
-            <a href="vd/main.jsp" class="cta-button">VD1</a>
+            <a href="Bai1/page.jsp" class="cta-button">Bai1</a>
             <a href="vd2/main_page.jsp" class="cta-button">VD2</a>
             <a href="vd3/main.jsp" class="cta-button">VD3</a>
             <a href="vd4/main_page.jsp" class="cta-button">VD4</a>
